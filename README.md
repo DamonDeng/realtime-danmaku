@@ -1,4 +1,4 @@
-# realtime-danmaku
+# Realtime Danmaku
 This is a realtime danmaku(弹幕) app built for pure serverless architecture on AWS S3, Kinesis Streams.
 
 ###danmaku-display.html<br>
